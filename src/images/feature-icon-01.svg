@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="112px" height="100px" viewBox="0 0 112 100" enable-background="new 0 0 112 100" xml:space="preserve">
+<filter  height="280%" width="280%" id="a" filterUnits="objectBoundingBox" y="-90%" x="-90%">
+	<feGaussianBlur  in="SourceGraphic" stdDeviation="12"></feGaussianBlur>
+</filter>
+<g>
+	<path fill="#0270D7" d="M35.521,6.938L12.04,35.843l48.938,16.136L84.46,23.073L35.521,6.938z"/>
+	<path fill="#DD53B9" d="M20,65.494L35.822,74L36,26.506L20.176,18L20,65.494z"/>
+	<g transform="translate(28 31)">
+		<g filter="url(#a)">
+			<rect x="1" opacity="0.48" fill="#1D2026" width="40" height="40"/>
+		</g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-2013.1172" y1="1038.5977" x2="-2014.1094" y2="1038.1201" gradientTransform="matrix(62.7745 0 0 -54.1481 126433.6797 56248.6094)">
+			<stop  offset="0" style="stop-color:#2C3039"/>
+			<stop  offset="0.4813" style="stop-color:#8A94A7"/>
+			<stop  offset="1" style="stop-color:#2C3039"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M11.261,54.752l-9.71-18.785c-1.455-2.814-1.94-6.184-1.224-9.916
+			C2.637,14.01,16.59,2.732,31.492,0.867C41.775-0.42,49.824,3.11,53.064,9.38l9.711,18.785c-3.242-6.271-11.291-9.8-21.573-8.515
+			C26.3,21.518,12.347,32.793,10.036,44.837C9.32,48.568,9.806,51.938,11.261,54.752"/>
+		<g>
+			
+				<linearGradient id="c_1_" gradientUnits="userSpaceOnUse" x1="-2012.666" y1="1037.6777" x2="-2012.9166" y2="1036.6812" gradientTransform="matrix(54.6166 0 0 -44.1387 109968.3516 45822.5859)">
+				<stop  offset="0" style="stop-color:#3B404C"/>
+				<stop  offset="1" style="stop-color:#333843"/>
+			</linearGradient>
+			<path id="c" fill="url(#c_1_)" d="M32.833,63.264c-14.9,1.866-25.108-6.384-22.797-18.428
+				c2.31-12.043,16.264-23.318,31.166-25.184C56.104,17.786,66.311,26.036,64,38.08C61.689,50.123,47.736,61.398,32.833,63.264z"/>
+		</g>
+	</g>
+	<path fill="#00BFFB" d="M22.991,85.677l0.826-6.614L7.855,84.8L7.03,91.416L22.991,85.677z"/>
+	<path fill="#00BFFB" fill-opacity="0.32" d="M106.721,46.737l4.408-2.801L97.43,37.199L93.021,40L106.721,46.737z"/>
+</g>
+</svg>
