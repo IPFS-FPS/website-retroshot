@@ -49,6 +49,26 @@
     }
 }
 
+.button-discord {
+	background: mix(color(discord, 1), color(discord, 2));
+    background: linear-gradient(65deg, color(discord, 1) 0, color(discord, 2) 100%);
+
+    &:hover {
+		background: lighten(mix(color(discord, 1), color(discord, 2)), 2%);
+        background: linear-gradient(65deg, lighten(color(discord, 1), 2%) 0, lighten(color(discord, 2), 2%) 100%);
+    }
+}
+
+.button-secondary {
+	background: mix(color(secondary, 1), color(secondary, 2));
+    background: linear-gradient(65deg, color(secondary, 1) 0, color(secondary, 2) 100%);
+
+    &:hover {
+		background: lighten(mix(color(secondary, 1), color(secondary, 2)), 2%);
+        background: linear-gradient(65deg, lighten(color(secondary, 1), 2%) 0, lighten(color(secondary, 2), 2%) 100%);
+    }
+}
+
 .button-block {
     display: flex;
 }
